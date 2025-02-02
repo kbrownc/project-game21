@@ -1,11 +1,10 @@
 import { } from 'react'
+import TicTacToe from "./components/TicTacToe";
 
 function App() {
 
   return (
-    <>
-      <h1>Game 21</h1>
-    </>
+      <TicTacToe />
   )
 }
 
